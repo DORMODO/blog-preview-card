@@ -22,7 +22,7 @@ body {
 
 .blog {
   background-color: var(--clr-white);
-  width: 390px;
+  width: 380px;
   border: 2px solid black;
   border-radius: 20px;
   padding: 24px;
@@ -54,7 +54,7 @@ body {
 }
 
 .blog__content-title {
-  font-size: 29px;
+  font-size: 24px;
   margin-bottom: 12px;
   transition: 0.15s;
   cursor: pointer;
@@ -81,5 +81,6 @@ body {
 }
 
 .blog__author-name {
+  font-size: 14px;
   line-height: 1.7;
 }
